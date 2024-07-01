@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Replace with your actual Gemini API endpoint and authentication details
 GEMINI_API_URL = "https://aistudio.google.com/app/apikey"
-GEMINI_API_KEY = "AIzaSyAjiF2M54OqCfJX8oLhvWF2vHs_YXg3S4w"  # Add authentication if required
+GEMINI_API_KEY = "********************"  # Add authentication if required
 
 @app.route('/test', methods=['POST'])
 def process_query():
