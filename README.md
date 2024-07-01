@@ -49,7 +49,7 @@ Install Dependencies:
 
 Start the Flask Backend:
 ```bash
-  python app.py
+  python test.py
 ```
  Run the Streamlit Frontend:
 ```bash
