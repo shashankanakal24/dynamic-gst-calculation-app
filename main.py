@@ -7,14 +7,14 @@ import requests
 
 #Configuration Key
 firebaseConfig = {
-  'apiKey': "AIzaSyD2lny7YbZzt5K3Co6LftXciwZquI1lH4g",
-  'authDomain': "gst---calculator-2.firebaseapp.com",
-  'projectId': "gst---calculator-2",
-'databaseURL':"https://gst---calculator-2-default-rtdb.europe-west1.firebasedatabase.app/",
-  'storageBucket': "gst---calculator-2.appspot.com",
-  'messagingSenderId': "479299108880",
-  'appId': "1:479299108880:web:a26d4216c7d35903a9ca95",
-  'measurementId': "G-8JJCKRTLXY"
+  'apiKey': "*********************************",
+  'authDomain': "***********************",
+  'projectId': "*************************",
+'databaseURL':"******************************8",
+  'storageBucket': "***************************",
+  'messagingSenderId': "****************",
+  'appId': "*********************",
+  'measurementId': "***************"
 };
 def send_query_to_flask(user_input):
     print(user_input)
