@@ -70,7 +70,9 @@ Start the Flask Backend:
 This application uses an API to fetch the latest GST rates dynamically. Ensure you have the necessary API keys and configurations set up in the environment variables or configuration files.
 ## YouTube Video
 Watch the YouTube video for a detailed walkthrough of the application:
-https://youtu.be/qxkl5bzIaqo?si=cfR_IRrdpUmFlgbO
+<a href="https://www.youtube.com/watch?v=qxkl5bzIaqo" target="_blank"><img src="https://img.youtube.com/vi/qxkl5bzIaqo/0.jpg" 
+alt="Project Demonstration" width="240" height="180" border="10" /></a>
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
